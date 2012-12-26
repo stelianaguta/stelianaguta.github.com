@@ -156,7 +156,8 @@ height: auto;
 margin-bottom: 3em; 
 }
 .social_text{
-float: right;
+float: le;
+margin-left: 7em;
 height: auto;
 font-family: 'Spinnaker', Helvetica, sans-serif;
 font-size: 0.7em;
